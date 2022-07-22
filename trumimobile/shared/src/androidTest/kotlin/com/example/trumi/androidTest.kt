@@ -1,4 +1,4 @@
-package com.example.trumimobile
+package com.example.trumi
 
 import org.junit.Assert.assertTrue
 import org.junit.Test

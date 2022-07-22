@@ -1,4 +1,4 @@
-package com.example.trumimobile
+package com.example.trumi
 
 import platform.UIKit.UIDevice
 

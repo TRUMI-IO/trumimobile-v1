@@ -6,8 +6,8 @@ plugins {
 android {
     compileSdk = 32
     defaultConfig {
-        applicationId = "com.example.trumimobile.android"
-        minSdk = 22
+        applicationId = "com.example.trumi.android"
+        minSdk = 21
         targetSdk = 32
         versionCode = 1
         versionName = "1.0"

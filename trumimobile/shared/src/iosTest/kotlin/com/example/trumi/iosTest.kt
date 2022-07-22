@@ -1,4 +1,4 @@
-package com.example.trumimobile
+package com.example.trumi
 
 import kotlin.test.Test
 import kotlin.test.assertTrue

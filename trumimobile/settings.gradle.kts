@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "trumimobile"
+rootProject.name = "TRUMI"
 include(":androidApp")
 include(":shared")

@@ -1,8 +1,8 @@
-package com.example.trumimobile.android
+package com.example.trumi.android
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.trumimobile.Greeting
+import com.example.trumi.Greeting
 import android.widget.TextView
 
 fun greet(): String {
